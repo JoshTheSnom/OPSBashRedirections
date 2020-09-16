@@ -1,0 +1,5 @@
+
+Suma je -177
+Prumer je -59.0
+Nejmensi cislo je -666
+Nejvetsi cislo je 420
